@@ -1,6 +1,6 @@
 """Defines product inventory inputed by user"""
-
 import random
+
 
 #in the following we will define the attributes 
 class Product():
